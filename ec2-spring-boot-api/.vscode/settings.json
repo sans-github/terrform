@@ -3,7 +3,6 @@
     "**/.terraform": true, 
     "**/.terraform.lock.hcl": true,
     "**/terraform.tfstate": true,
-    "**/terraform.tfstate.backup": true,
-    "**gitignore": true
+    "**/terraform.tfstate.backup": true
   }
 }
